@@ -1,0 +1,2 @@
+#!/bin/bash
+echo_$((2#BINARRY))
